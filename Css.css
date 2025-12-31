@@ -1,0 +1,79 @@
+A {
+	TEXT-DECORATION:none;
+	color: #000000;
+}
+A:link {
+	COLOR: #000000;
+	TEXT-DECORATION: none;
+	font-size: 12px;
+}
+A:visited {
+	COLOR: #000000;
+	TEXT-DECORATION: none;
+	font-size: 12px;
+}
+A:hover{
+	text-decoration:none;
+	font-size: 12px;
+	color: #000000;
+} 
+
+A:active {
+	COLOR: #608B2B7;
+	TEXT-DECORATION: none;
+	font-size: 12px;
+}
+.link2 {
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.link3 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: 25px;
+}
+.link4 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	line-height: normal;
+}
+.biaoti {
+	font-size: 14px;
+	font-weight: bold;
+	color:#FFFFFF;
+}
+.STYLE1 {
+	color:#868686;
+	font-size: 12px;
+}
+.STYLE4 {	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.STYLE5 {color: #FF0000; font-weight: bold;}
+.STYLE6 {color: #000000}
+#table {width:100%;}
+#div { height:360px;width:100%;overflow-y:auto; }
+.STYLE2 {
+	font-size: 14px;
+	font-weight: bold;
+	color:#FFFFFF;
+}
+.STYLE7 {font-size: 14;
+         font-weight: bold;
+		 color:#000000}
+#js_F {
+ position:relative;
+ top:0px; left:0px;
+ overflow:hidden;
+ width:328px; height:214px;
+ background:#FFFFFF;
+}
+#js_F img{
+ position:absolute;
+ top:0; left:0;
+ width:328px; height:214px;

@@ -1,0 +1,66 @@
+BODY {
+	background-color: #848484;
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	SCROLLBAR-FACE-COLOR: #ededed;
+	SCROLLBAR-HIGHLIGHT-COLOR: #fafafa;
+	SCROLLBAR-SHADOW-COLOR: #bdbdbd;
+	SCROLLBAR-3DLIGHT-COLOR: #ffffff;
+	SCROLLBAR-ARROW-COLOR: #939393;
+	SCROLLBAR-TRACK-COLOR: #f4f4f4;
+	SCROLLBAR-DARKSHADOW-COLOR: #ffffff;
+	font-size: 9px;
+	color: #313131;
+}
+
+td {
+	font-size: 12pt;
+	LINE-HEIGHT: normal;
+		}
+A:link {
+	COLOR: #313131;
+	TEXT-DECORATION: none;
+
+}
+A:visited {
+	COLOR: #313131;
+	TEXT-DECORATION: none;
+}
+A:hover {
+	COLOR: #ff0000;
+	TEXT-DECORATION: underline;
+}
+A:active {
+	COLOR: #313131;
+	TEXT-DECORATION: none;
+}
+.biaoti {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+
+
+
+.input_text {
+	font-size: 9pt;
+	border: 1px solid #cccccc;
+	font-family: Arial;
+}
+.input_submit {
+	font-size: 9pt;
+	border: 1px solid #cccccc;
+	font-family: Arial;
+	background-color: #FFFFFF;
+}
+.images 
+{
+	border: #bbbbbb;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 1px; 
+	border-bottom-width: 1px; 
+	border-left-width: 1px
+  }
